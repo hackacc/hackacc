@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hackacc
+- 👋 Hi, I’m @itzkaranrajput
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning phising
-- 💞️ I’m looking to collaborate on phising website
-- 📫 How to reach me on whatsapp my no is +1(786)-432-0584
+- 🌱 I’m currently learning python development
+- 💞️ I’m looking for my friend who guide me 
+- 📫 How to reach me on telegram my telegram id is itzkaranrajputz
 
 <!---
 hackacc/hackacc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
